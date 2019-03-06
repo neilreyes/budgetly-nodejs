@@ -1,3 +1,7 @@
 client/*
 node_modules/*
+<<<<<<< HEAD
 config/*
+=======
+config/keys.js
+>>>>>>> authentication
